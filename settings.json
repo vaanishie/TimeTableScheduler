@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Users/hp/Downloads/TimetableGeneratorV3_fixed/TimetableV3/lib/sqlite-jdbc-3.36.0.3.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "disabled",
+  "editor.formatOnSave": false
+}
